@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FatBooks</string>
+    <string name="read">Đọc và nghe 20.000 nội dung
+        ngay hôm nay!!</string>
+    <string name="menu_home">Trang chủ</string>
+    <string name="main_actions">Ưu đãi</string>
+    <string name="main_cc">Cộng đồng</string>
+    <string name="main_tv">Thư viện</string>
+    <string name="main_cb">Cá nhân</string>
+    <string name="text_hello">Chào mừng bạn đến với FatBooks</string>
+    <string name="open">Mở</string>
+    <string name="text_home">   Bạn cần đăng nhập trước khi sử dụng tính năng này để đảm bảo việc đồng bộ dữ liệu của tài khoản trên nhiều thiết bị</string>
+    <string name="yes">ĐỒNG Ý</string>
+    <string name="no">HỦY BỎ</string>
+    //
+    <string name="username_hint">Username</string>
+    <string name="password_hint">password</string>
+    <string name="login_button">login</string>
+    <string name="register_button">Register</string>
+    ///
+    <string name="en_book">Xem thêm sách mua lẻ</string>
+    <string name="en_books">Xem thêm truyện</string>
+</resources>

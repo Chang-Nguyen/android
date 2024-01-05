@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/icons8_home_26"
+        android:title="@string/menu_home"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/action_endow"
+        android:icon="@drawable/icons8_discoun_30"
+        android:title="@string/main_actions"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/action_community"
+        android:icon="@drawable/icons8_compass_24"
+        android:title="@string/main_cc"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/action_Library"
+        android:icon="@drawable/icons8_book_24"
+        android:title="@string/main_tv"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/action_canhan"
+        android:icon="@drawable/icons8_happy_60"
+        android:title="@string/main_cb"
+        app:showAsAction="withText" />
+    <!-- res/menu/main_actions.xml -->
+
+
+</menu>
